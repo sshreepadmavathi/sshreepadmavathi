@@ -33,8 +33,8 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreepadmavathi&show_icons=true&theme=radical" alt="Shree's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shreepadmavathi&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sshreepadmavathi&show_icons=true&theme=radical" alt="Shree's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sshreepadmavathi&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
